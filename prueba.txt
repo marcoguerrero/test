@@ -2,6 +2,14 @@ asdasdasd
 
 asdasdas
 
+<<<<<<< HEAD
 Rafael
 
 Reyes
+=======
+
+tardeeeeeeeeeeeeeeeeeeeee
+
+Rafael
+
+>>>>>>> 232d0ee3ee243da047683ba24d0d7a62f355fb33
